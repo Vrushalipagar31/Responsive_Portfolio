@@ -1,4 +1,3 @@
-# pratinik_project
 # Personal Portfolio
 
 Project Overview
