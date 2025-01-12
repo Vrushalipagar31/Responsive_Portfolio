@@ -46,16 +46,3 @@ Open the index.html file in any web browser (Chrome, Firefox, etc.).
 index.html: Contains the structure of the portfolio, including sections for Home, Projects, Skills, and Contact.
 style.css: Contains the CSS for styling the page. Ensures responsiveness and defines the look of each section.
 script.js: Handles interactivity like form validation and simple animations (e.g., fade-in effects when scrolling).
-7. Deployment
-To deploy the portfolio, you can host it on platforms like GitHub Pages or Netlify:
-
-GitHub Pages:
-
-Push the code to a GitHub repository.
-Go to the repository settings, scroll down to "GitHub Pages", and choose the branch you want to deploy from (usually main).
-Your portfolio will be live at https://github.com/Vrushalipagar31/pratinik_project.
-Netlify:
-
-Create a Netlify account.
-Drag and drop the project folder into Netlify's deployment interface.
-The site will be deployed with a unique Netlify URL.
